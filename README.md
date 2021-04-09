@@ -19,3 +19,7 @@ added a column in which predicted row value are there of the algorithm for which
 #### LSTM/GRU : 
 
 Performed LSTM/GRU for training our data and evaluating model
+
+#### requirements.txt:
+
+File to install dependencies required for the project
